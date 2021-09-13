@@ -1,0 +1,30 @@
+---
+authors:
+- admin
+categories:
+- Guatemala
+date: "2021-09-12T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/P6DaQH7n1VU)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+lastmod: "2021-09-12T00:00:00Z"
+projects: []
+subtitle: "Volcan de Fuego \U0001f30b" 
+summary: "Volcan de Fuego \U0001f30b"
+tags:
+- Volcan
+- Guatemala
+title: Volcanes Activos en el Planeta
+---
+
+## Descripcion
+
+El volcan de Fuego tiene una altura de 3763 m, es uno de los volcanes mas activos de Guatemala, cuyas erupciones generan avalanchas de ceniza y rocas ardientes. Tal es el caso de la erupcion del 3 de junio de 2018 donde hubo personas fallecidas y desaparecidas debido a las avalanchas. 
+A 3 km de distancias se encuentra el volcan acatenango, el cual se encuentra sin actividad y desde su cumbre se pueden observar las erupciones del volcan de fuego, esta actividad natural es aprovechada por los guatemaltecos y extranjeros para organizar excursiones al volcan Acatenango y asi apreciar muy cerca una erupcion volcanica. 
+
+
+

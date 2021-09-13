@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Blog de Andreina Vasquez</title>
+    <link>https://academic-demo.netlify.app/project/</link>
+      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://academic-demo.netlify.app/project/</link>
+    </image>
+    
+    <item>
+      <title>Visor web para la gestion de tramites de visado digital</title>
+      <link>https://academic-demo.netlify.app/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/internal-project/</guid>
+      <description>&lt;p&gt;En la Municipalidad de Acosta se esta trabajando en la creacion de una plataforma digital vinculada con los sistemas de informacion geografica para la gestion y administracion de los tramites de visado municipal. Se va a llevar a cabo utilizando software de codigo libre para la implementation de una base de datos y un visor web de tramites.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aproximacion Polinomica de la Ondulacion del Geoide en Costa Rica</title>
+      <link>https://academic-demo.netlify.app/project/external-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
